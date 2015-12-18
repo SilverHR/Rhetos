@@ -503,7 +503,9 @@ AS
     <value>DROP PROCEDURE {0}.{1}</value>
   </data>
   <data name="SqlQueryableDatabaseDefinition_Create" xml:space="preserve">
-    <value>CREATE VIEW {0}.{1} AS {2}</value>
+    <value>CREATE VIEW {0}.{1}
+AS
+{2}</value>
   </data>
   <data name="SqlQueryableDatabaseDefinition_Remove" xml:space="preserve">
     <value>DROP VIEW {0}.{1}</value>
